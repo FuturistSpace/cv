@@ -1,0 +1,23 @@
+.bg{
+    background-image: url(Contact-me-11-940x518.jpg);
+    padding:30px;
+    background-repeat: no-repeat;
+    background-size: cover ;
+  
+}
+
+.pricing{
+    padding:6px;
+    background-color: black;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
